@@ -1,1 +1,3 @@
-console.log("Hello World")
+const myVar = "Mathematics";
+
+console.log("John, Joe, Dave".split(","))
